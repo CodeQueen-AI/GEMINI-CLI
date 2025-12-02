@@ -1,4 +1,4 @@
- *📘 Gemini CLI Architecture*
+ # *📘 Gemini CLI Architecture*
 
 
 ## **🔹 Components & Explanation in Simple Words**
@@ -45,5 +45,6 @@
 | Extensions   | Extra powers, flexible features | 
 | Logs         | Monitoring & debugging          | 
 | IDE/Headless | Automation & integration        | 
+
 
 
