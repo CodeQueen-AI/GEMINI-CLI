@@ -83,11 +83,25 @@ Hum Gemini CLI is liye use karte hain kyunki ye **AI ki madad se content aur cod
 * ⚠️ Agar token limit cross ho jaye to CLI truncate ya error de sakta hai
 
 
+## 💻 Installation
 
+* Gemini CLI install karne ke liye command:
 
+```bash
+npm install -g @google/gemini-cli
+```
+
+* Gemini CLI ko active karke run karne ke liye:
+
+```bash
+gemini
+```
+
+Ye command chalane ke baad aap Gemini CLI ke saare features use kar sakte ho aur AI commands run kar sakte ho.
 
 
 ## ✅ Summary
 
 Gemini CLI ek **powerful, AI-driven CLI** hai **content creation, code editing, aur project management** ke liye.
 Iske **extensions, tools, logs, aur cross-platform support** se ye **professional aur highly efficient** ban jata hai🚀
+
