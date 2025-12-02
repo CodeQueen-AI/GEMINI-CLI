@@ -91,5 +91,3 @@ Hum Gemini CLI is liye use karte hain kyunki ye **AI ki madad se content aur cod
 
 Gemini CLI ek **powerful, AI-driven CLI** hai **content creation, code editing, aur project management** ke liye.
 Iske **extensions, tools, logs, aur cross-platform support** se ye **professional aur highly efficient** ban jata hai🚀
-
-?
